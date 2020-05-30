@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E5D7212F-D5A6-4818-A719-171DAC710F4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoughtsCrosses/ViewController.cs">
+    <Files>
+      <File FileName="NoughtsCrosses/ViewController.cs" Line="235" Column="1" />
+      <File FileName="NoughtsCrosses/Main.cs" />
+      <File FileName="NoughtsCrosses/ViewController.designer.cs" />
+      <File FileName="NoughtsCrosses/Game/GameController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoughtsCrosses" expanded="True">
+            <Node name="NoughtsCrosses" expanded="True">
+              <Node name="Game" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NoughtsCrosses PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

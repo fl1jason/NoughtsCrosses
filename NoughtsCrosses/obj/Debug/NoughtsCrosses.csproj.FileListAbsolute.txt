@@ -1,0 +1,13 @@
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/bin/Debug/X o X o X.exe
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/bin/Debug/X o X o X.pdb
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/actool/_PartialAppManifest.items
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/X o X o X.exe
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/X o X o X.pdb
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/NoughtsCrosses.csprojAssemblyReference.cache
+/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/NoughtsCrosses.csproj.CoreCompileInputs.cache

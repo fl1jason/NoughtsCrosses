@@ -1,0 +1,16 @@
+/debug
+/output:/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/bin/Debug/
+"/name:X o X o X"
+/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile
+/arch:x86_64
+--http-message-handler=HttpClientHandler
+/minos=10.15
+/nolink
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Facades/System.Drawing.Common.dll
+/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll
+"/root-assembly:/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/bin/Debug/X o X o X.exe"
+/sdkroot:/Applications/Xcode.app/Contents/Developer
+--cache:/Users/jasonsammon/Code/Cocoa/NoughtsCrosses/NoughtsCrosses/obj/Debug/mmp-cache
